@@ -27,7 +27,7 @@ I have been actively engaged in Manual testing tasks since 2015, but my commitme
 
 ## CV
 
-My CV is available for download in PDF format on my [Google Drive](URL).
+My CV is available for download in PDF format on my [Google Drive](https://github.com/danielN91/danielN91/files/12241621/Daniel_Nyisztor_QA_Tester.pdf).
 
 ## Technical Skills
 In this section, I outline the key skills and competencies I possess as a QA Tester. These skills are essential for ensuring successful software testing and quality assurance.
