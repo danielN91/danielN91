@@ -27,7 +27,7 @@ I have been actively engaged in Manual testing tasks since 2015, but my commitme
 
 ## Resume
 
-My [Resume](https://github.com/danielN91/danielN91/files/12241621/Daniel_Nyisztor_QA_Tester.pdf) is available for download in PDF format.
+My [Resume](https://github.com/danielN91/danielN91/files/12241874/Daniel_Nyisztor-QA_Tester.pdf) is available for download in PDF format.
 
 ## Technical Skills
 In this section, I outline the key skills and competencies I possess as a QA Tester. These skills are essential for ensuring successful software testing and quality assurance.
