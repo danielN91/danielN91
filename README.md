@@ -78,7 +78,7 @@ In my GitHub profile, I leverage a variety of industry-standard tools to enhance
 
 * __Automation__ Testing: Selenium WebDriver
 * __API Testing__: Postman, Insomnia
-* __Bug Tracking__: Jira, Bugzilla, Trello, Browser developer tools
+* __Bug Tracking__: Jira, Bugzilla, Trello
 * __Test Management__: TestRail, TestLink
 * __Version Control__: Git, GitHub
 * __Continuous Integration__: Jenkins
