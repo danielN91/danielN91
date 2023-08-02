@@ -1,10 +1,12 @@
 Welcome to my QA Tester Portfolio! 
-This repository contains examples of my work as a QA Tester, showcasing my skills, experience, and expertise in software testing. Below, you will find a detailed overview of the contents and how to navigate this portfolio effectively.
+
+I am **Daniel**, a **freelance QA Tester** with diverse experience across **multiple platforms and projects**. This repository contains examples of my work as a QA Tester, showcasing my skills, experience, and expertise in software testing. Below, you will find a detailed overview of the contents and how to navigate this portfolio effectively.
 
 # Table of Contents
 - [About me](#intro)
 - [CV](#cv)
-- [Skills](#skills)
+- [Technical Skills](#tech_skills)
+- [Soft Skills](#soft_skills)
 - [Tools](#tools)
 - [Certificates](#cert)
 - [Projects](#proj)
@@ -14,9 +16,9 @@ This repository contains examples of my work as a QA Tester, showcasing my skill
 - [Books I have read](#books)
 - [Contact](#contact)
   
-## About me
-As a dedicated and meticulous QA Tester with a passion for ensuring software quality, I have compiled this portfolio to highlight my achievements, projects, and expertise in various testing methodologies. This portfolio demonstrates my ability to identify and report bugs effectively, create comprehensive test cases, and contribute to automation efforts.
-This portfolio includes both my work projects and my freelance projects dating back to 2019.
+## 🔎 About me
+As a dedicated and meticulous QA Tester with a passion for **ensuring software quality**, I have compiled this portfolio to **highlight my achievements**, projects, and expertise in various testing methodologies. This portfolio demonstrates my ability to identify and report bugs effectively, create comprehensive test cases, and contribute to automation efforts.
+This portfolio includes both **my work projects** and **my freelance projects** dating back to 2019.
 
 I have been actively engaged in Manual testing tasks since 2015, but my commitment to testing intensified in 2019 when I began freelancing on various platforms. As a Freelancer, I delivered manual testing services to multiple clients across different projects and platforms. In 2023, I embarked on my journey with test automation, and in May 2023, I successfully developed and executed my first automated test scripts using Selenium.
 
@@ -24,24 +26,47 @@ I have been actively engaged in Manual testing tasks since 2015, but my commitme
 
 My CV is available for download in PDF format on my [Google Drive](URL).
 
-## Skills
+## Technical Skills
 In this section, I outline the key skills and competencies I possess as a QA Tester. These skills are essential for ensuring successful software testing and quality assurance.
 
-__Manual Testing__: Proficient in various manual testing techniques, including functional, regression, smoke, and exploratory testing.
+☑️ __Manual Testing__: Proficient in various manual testing techniques, including functional, regression, smoke, and exploratory testing.
 
-__API Testing__: Proficient in API testing, I validate the functionality, reliability, and performance of APIs. Skilled in crafting test cases, testing HTTP methods, and using tools like Postman or Insomnia, I ensure seamless communication and data exchange between software components. My expertise contributes to delivering robust and efficient software systems with smooth integration capabilities.
+☑️ __API Testing__: Proficient in API testing, I validate the functionality, reliability, and performance of APIs. Skilled in crafting test cases, testing HTTP methods, and using tools like Postman or Insomnia, I ensure seamless communication and data exchange between software components. My expertise contributes to delivering robust and efficient software systems with smooth integration capabilities.
 
-__Automation Testing__: Skilled in using automation tools like Selenium WebDriver.
+☑️ __Automation Testing__: Skilled in using automation tools like Selenium WebDriver.
 
-__Bug Tracking__: Experienced in utilizing bug tracking tools such as Jira, Bugzilla, or similar systems to report and manage defects throughout the software development lifecycle.
+☑️ __Bug Tracking__: Experienced in utilizing bug tracking tools such as Jira, Bugzilla, or similar systems to report and manage defects throughout the software development lifecycle.
 
-__Test Planning__: Competent in creating test plans and strategies based on project requirements and specifications.
+☑️ __Test Planning__: Competent in creating test plans and strategies based on project requirements and specifications.
 
-__Test Case Design__: Able to design comprehensive and reusable test cases to ensure maximum test coverage.
+☑️ __Test Case Design__: Able to design comprehensive and reusable test cases to ensure maximum test coverage.
 
-__Agile Methodologies__: Familiar with Agile and Scrum methodologies, collaborating with development teams in sprints and participating in agile ceremonies.
+☑️ __Agile Methodologies__: Familiar with Agile and Scrum methodologies, collaborating with development teams in sprints and participating in agile ceremonies.
 
-__Communication__: Excellent communication skills to convey complex information effectively and work collaboratively within cross-functional teams.
+☑️ __Communication__: Excellent communication skills to convey complex information effectively and work collaboratively within cross-functional teams.
+
+## Soft Skills
+🔎 Precision and meticulous attention to quality.
+
+🙌 Excellent communication and teamwork skills.
+
+💥 Sharp critical thinking abilities.
+
+📚 Quick adaptability to learn new tools, systems, and processes.
+
+💡 Creative and innovative thinking.
+
+:chart_with_upwards_trend: Proficient problem-solving and analytical skills.
+
+:rocket: Proactive and driven attitude.
+
+🔁 Enthusiastic desire for self-development.
+
+🔋 Energetic and highly motivated.
+
+:clipboard: Well-organized and structured approach.
+
+🙅‍♀️ Assertive and confident.
 
 
 ## Tools
@@ -78,7 +103,11 @@ With these tools at my disposal, I ensure that the software under test is thorou
 
 ### Bug Reports
 
+
+
 ### Test cases
+
+
 
 ### Automation
 
