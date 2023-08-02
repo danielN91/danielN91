@@ -19,7 +19,7 @@ I am **Daniel**, a **freelance QA Tester** with diverse experience across **mult
 - [Books I have read](#books-i-have-read)
 - [Contact](#contact)
   
-## 🔎 About me
+## About me
 As a dedicated and meticulous QA Tester with a passion for **ensuring software quality**, I have compiled this portfolio to **highlight my achievements**, projects, and expertise in various testing methodologies. This portfolio demonstrates my ability to identify and report bugs effectively, create comprehensive test cases, and contribute to automation efforts.
 This portfolio includes both **my work projects** and **my freelance projects** dating back to 2019.
 
