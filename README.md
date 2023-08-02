@@ -28,7 +28,7 @@ I have been actively engaged in Manual testing tasks since 2015, but my commitme
 
 ## Resume
 
-My [Resume](https://github.com/danielN91/danielN91/files/12241874/Daniel_Nyisztor-QA_Tester.pdf) is available for download in PDF format.
+My [Resume](https://github.com/danielN91/danielN91/files/12243047/Daniel_Nyisztor_QATester.pdf) is available for download in PDF format.
 
 ## Technical Skills
 In this section, I outline the key skills and competencies I possess as a QA Tester. These skills are essential for ensuring successful software testing and quality assurance.
@@ -77,10 +77,10 @@ In this section, I outline the key skills and competencies I possess as a QA Tes
 
 In my GitHub profile, I leverage a variety of industry-standard tools to enhance my testing capabilities and streamline the testing process. These tools aid me in conducting comprehensive manual and automated testing, tracking and managing defects, and collaborating effectively with development teams. Some of the key tools I use include:
 
-* __Automation__ Testing: Selenium WebDriver
+* __Automation Testing__: Selenium 
 * __API Testing__: Postman, Insomnia
 * __Bug Tracking__: Jira, Bugzilla, Trello
-* __Test Management__: TestRail, TestLink
+* __Test Management__: Zephyr Scale, TestRail, TestLink
 * __Version Control__: Git, GitHub
 * __Continuous Integration__: Jenkins
 * __Performance Testing__: JMeter
