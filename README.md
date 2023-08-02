@@ -105,12 +105,12 @@ With these tools at my disposal, I ensure that the software under test is thorou
 ## Projects
 
 ### Bug Reports
-:arrow_forward: <a href="" target="_blank"> Bugs reported -  <br/> 
+:arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242490/BugReporting_BlackjackGame.xlsx" target="_blank"> Bug reports - Blackjack Game <br/> 
 
 
 ### Test cases
 :arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242127/test.scenario.gurr99.banking.app.xlsx" target="_blank"> Test cases - Guru99 Banking Application <br/> 
-:arrow_forward: <a href="" target="_blank"> Test cases - Udemy Projects <br/> 
+:arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242393/TestCases_LoginWebsite.xlsx" target="_blank"> Test cases - Login for Dating Website <br/> 
 
 ### Automation
 :arrow_forward: <a href="https://github.com/danielN91/danielN91/assets/141241895/6c0d9ba2-1a4e-48c6-bf98-e42423dd79a6" target="_blank"> Automated test scripts with Selenium WebDriver <br/> 
