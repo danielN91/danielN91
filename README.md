@@ -7,7 +7,7 @@ I am **Daniel**, a **freelance QA Tester** with diverse experience across **mult
 
 # Table of Contents
 - [About me](#aboutme)
-- [CV](#resume)
+- [Resume](#resume)
 - [Technical Skills](#technical-skills)
 - [Soft Skills](#soft-skills)
 - [Tools](#tools)
