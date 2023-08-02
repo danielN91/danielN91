@@ -16,6 +16,7 @@ I am **Daniel**, a **freelance QA Tester** with diverse experience across **mult
     * [Bug Reports](#bug-reports)
     * [Test cases](#test-cases)
     * [Automation](#automation)
+    * [Post Release QA Notes](#post-release-qa-notes)
 - [Books I have read](#books-i-have-read)
 - [Contact](#contact)
   
@@ -114,6 +115,9 @@ With these tools at my disposal, I ensure that the software under test is thorou
 
 ### Automation
 :arrow_forward: <a href="https://github.com/danielN91/danielN91/assets/141241895/6c0d9ba2-1a4e-48c6-bf98-e42423dd79a6" target="_blank"> Automated test scripts with Selenium WebDriver <br/> 
+
+### Post Release QA notes
+:arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242736/TechDoc_PostRelease.docx" target="_blank"> Post Release QA notes for a Healthcare App <br/> 
 
 ## Books I have read
 * __A study Guide to the ISTQB, Foundation Level 2018__, Test Techniques and Sample Mock Exams, by Adam Roman.
