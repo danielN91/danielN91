@@ -108,13 +108,15 @@ With these tools at my disposal, I ensure that the software under test is thorou
 ### Bug Reports
 :arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242516/BugReporting_BlackjackGame.xlsx" target="_blank"> Bug reports - Blackjack Game <br/> 
 
-
 ### Test cases
 :arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242127/test.scenario.gurr99.banking.app.xlsx" target="_blank"> Test cases - Guru99 Banking Application <br/> 
 :arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242601/TestCases_LoginWebsite.xlsx"> Test cases - Login for Dating Website <br/> 
 
 ### Automation
 :arrow_forward: <a href="https://github.com/danielN91/danielN91/assets/141241895/6c0d9ba2-1a4e-48c6-bf98-e42423dd79a6" target="_blank"> Automated test scripts with Selenium WebDriver <br/> 
+
+### Test Planning
+:arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242901/Game_TestingPlan.docx" target="_blank"> Casino Game Testing Plan - New Feature with Multiple Betting Options <br/> 
 
 ### Post Release QA notes
 :arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242736/TechDoc_PostRelease.docx" target="_blank"> Post Release QA notes for a Healthcare App <br/> 
