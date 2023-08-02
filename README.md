@@ -119,7 +119,7 @@ With these tools at my disposal, I ensure that the software under test is thorou
 :arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242901/Game_TestingPlan.docx" target="_blank"> Casino Game Testing Plan - New Feature with Multiple Betting Options <br/> 
 
 ### Post Release QA notes
-:arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242736/TechDoc_PostRelease.docx" target="_blank"> Post Release QA notes for a Healthcare App <br/> 
+:arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242931/TechDoc_PostRelease.docx" target="_blank"> Post Release QA notes for a Healthcare App <br/> 
 
 ## Books I have read
 * __A study Guide to the ISTQB, Foundation Level 2018__, Test Techniques and Sample Mock Exams, by Adam Roman.
