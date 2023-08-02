@@ -7,7 +7,7 @@ I am **Daniel**, a **freelance QA Tester** with diverse experience across **mult
 
 # Table of Contents
 - [About me](#aboutme)
-- [CV](#cv)
+- [CV](#resume)
 - [Technical Skills](#technical-skills)
 - [Soft Skills](#soft-skills)
 - [Tools](#tools)
@@ -25,9 +25,9 @@ This portfolio includes both **my work projects** and **my freelance projects** 
 
 I have been actively engaged in Manual testing tasks since 2015, but my commitment to testing intensified in 2019 when I began freelancing on various platforms. As a Freelancer, I delivered manual testing services to multiple clients across different projects and platforms. In 2023, I embarked on my journey with test automation, and in May 2023, I successfully developed and executed my first automated test scripts using Selenium.
 
-## CV
+## Resume
 
-My CV is available for download in PDF format on my [Google Drive](https://github.com/danielN91/danielN91/files/12241621/Daniel_Nyisztor_QA_Tester.pdf).
+My [Resume](https://github.com/danielN91/danielN91/files/12241621/Daniel_Nyisztor_QA_Tester.pdf) is available for download in PDF format.
 
 ## Technical Skills
 In this section, I outline the key skills and competencies I possess as a QA Tester. These skills are essential for ensuring successful software testing and quality assurance.
