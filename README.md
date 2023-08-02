@@ -6,17 +6,17 @@
 I am **Daniel**, a **freelance QA Tester** with diverse experience across **multiple platforms and projects**. This repository contains examples of my work as a QA Tester, showcasing my skills, experience, and expertise in software testing. Below, you will find a detailed overview of the contents and how to navigate this portfolio effectively.
 
 # Table of Contents
-- [About me](#intro)
+- [About me](#about-me)
 - [CV](#cv)
-- [Technical Skills](#tech_skills)
-- [Soft Skills](#soft_skills)
+- [Technical Skills](#technical-skills)
+- [Soft Skills](#soft-skills)
 - [Tools](#tools)
-- [Certificates](#cert)
-- [Projects](#proj)
-    * [Bug Reports](#bugs)
-    * [Test cases](#test)
-    * [Automation](#auto)
-- [Books I have read](#books)
+- [Certificates](#certificates)
+- [Projects](#projects)
+    * [Bug Reports](#bug-reports)
+    * [Test cases](#test-cases)
+    * [Automation](#automation)
+- [Books I have read](#books-i-have-read)
 - [Contact](#contact)
   
 ## 🔎 About me
