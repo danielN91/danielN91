@@ -105,7 +105,7 @@ With these tools at my disposal, I ensure that the software under test is thorou
 ## Projects
 
 ### Bug Reports
-:arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242490/BugReporting_BlackjackGame.xlsx" target="_blank"> Bug reports - Blackjack Game <br/> 
+:arrow_forward: <a href="https://github.com/danielN91/danielN91/files/12242516/BugReporting_BlackjackGame.xlsx" target="_blank"> Bug reports - Blackjack Game <br/> 
 
 
 ### Test cases
