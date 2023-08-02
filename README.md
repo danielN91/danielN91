@@ -1,4 +1,7 @@
-Welcome to my QA Tester Portfolio! 
+![Daniel Nyisztor (2)](https://github.com/danielN91/danielN91/assets/141241895/04189374-a16e-45e3-9ff8-781019d56c61)
+
+
+# Welcome to my QA Tester Portfolio! 
 
 I am **Daniel**, a **freelance QA Tester** with diverse experience across **multiple platforms and projects**. This repository contains examples of my work as a QA Tester, showcasing my skills, experience, and expertise in software testing. Below, you will find a detailed overview of the contents and how to navigate this portfolio effectively.
 
@@ -123,3 +126,6 @@ Thank you for visiting my QA Tester Portfolio! If you would like to get in touch
 
 __Email:__ daniel.nyisztor@yahoo.com <br/>
 __LinkedIn:__ [Daniel Nyisztor](https://www.linkedin.com/in/daniel-nyisztor91/)
+
+
+
