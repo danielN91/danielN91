@@ -88,19 +88,18 @@ In my GitHub profile, I leverage a variety of industry-standard tools to enhance
 With these tools at my disposal, I ensure that the software under test is thoroughly assessed, defects are promptly addressed, and the overall quality of the product is maintained at its highest level.
 
 ## Certificates
-* __The Complete Python Bootcamp From Zero to Hero in Python__, _Udemy (2023)_
-* __The Complete 2023 Software Testing Bootcamp__, _Udemy (2023)_
-* __Programming Foundations: Software Testing/QA__, _LinkedIn (2023)_
-* __API Testing and Validation__, LinkedIn (2023)
-* __Learning Python__, _LinkedIn (2023)_
-* __Understanding Manual Testing__, _LinkedIn (2023)_
-* __Software Testing Foundations: Test Planning__, _LinkedIn (2023)_
-* __Software Testing Foundations: Bug Writing and Management__, _LinkedIn (2023)_
-* __Agile Crash Course for Beginners__, _Udemy (2023)_
-* __Agile Testing__, LinkedIn (2023)
-* __Agile Development Practices__, _Project Management Institute (PMI) (2023)_
-* __Learning Jira Software__, _LinkedIn (2023)_
-* __Project Management Foundations__, _LinkedIn (20223)_
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __The Complete 2023 Software Testing Bootcamp__, _Udemy (2023)_<br/>
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __Programming Foundations: Software Testing/QA__, _LinkedIn (2023)_
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __API Testing and Validation__, LinkedIn (2023)
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __Learning Python__, _LinkedIn (2023)_
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __Understanding Manual Testing__, _LinkedIn (2023)_
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __Software Testing Foundations: Test Planning__, _LinkedIn (2023)_
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __Software Testing Foundations: Bug Writing and Management__, _LinkedIn (2023)_
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __Agile Crash Course for Beginners__, _Udemy (2023)_
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __Agile Testing__, LinkedIn (2023)
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __Agile Development Practices__, _Project Management Institute (PMI) (2023)_
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __Learning Jira Software__, _LinkedIn (2023)_
+☑️ <a href="https://www.udemy.com/certificate//" target="_blank"> __Project Management Foundations__, _LinkedIn (20223)_
 
 ## Projects
 
