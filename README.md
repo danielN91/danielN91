@@ -77,7 +77,7 @@ In this section, I outline the key skills and competencies I possess as a QA Tes
 
 In my GitHub profile, I leverage a variety of industry-standard tools to enhance my testing capabilities and streamline the testing process. These tools aid me in conducting comprehensive manual and automated testing, tracking and managing defects, and collaborating effectively with development teams. Some of the key tools I use include:
 
-* __Automation Testing__: Selenium 
+* __Automation Testing__: Selenium WebDriver
 * __API Testing__: Postman, Insomnia
 * __Bug Tracking__: Jira, Bugzilla, Trello
 * __Test Management__: Zephyr Scale, TestRail, TestLink
