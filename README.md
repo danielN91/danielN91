@@ -3,7 +3,7 @@
 
 # Welcome to my QA Tester Portfolio! 
 
-I am **Daniel**, a **freelance QA Tester** with diverse experience across **multiple platforms and projects**. This repository contains examples of my work as a QA Tester, showcasing my skills, experience, and expertise in software testing. Below, you will find a detailed overview of the contents and how to navigate this portfolio effectively.
+I am **Daniel**, a **QA Tester** with diverse experience across **multiple platforms and projects**. This repository contains examples of my work as a QA Tester, showcasing my skills, experience, and expertise in software testing. Below, you will find a detailed overview of the contents and how to navigate this portfolio effectively.
 
 # Table of Contents
 - [About me](#aboutme)
