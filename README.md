@@ -89,6 +89,7 @@ In my GitHub profile, I leverage a variety of industry-standard tools to enhance
 With these tools at my disposal, I ensure that the software under test is thoroughly assessed, defects are promptly addressed, and the overall quality of the product is maintained at its highest level.
 
 ## Certifications
+☑️ <a href="https://www.udemy.com/certificate/UC-98ed4cb6-1b02-4d90-b405-f35c3fda3db8/" target="_blank"> __Test Automation for Beginners__, _Udemy (2023)_ <br/>
 ☑️ <a href="https://www.udemy.com/certificate/UC-cfacab60-33e4-406c-8cea-e15243bd9422/" target="_blank"> __The Complete 2023 Software Testing Bootcamp__, _Udemy (2023)_ <br/>
 ☑️ <a href="https://www.linkedin.com/learning/certificates/862190afa7dd110e8d010c923e5781f8abddd36c8f8c435eb19ae9ab9ac5035d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B%2BEsjm6%2BiRw244me2EZbNlA%3D%3D" target="_blank"> __Programming Foundations: Software Testing/QA__, _LinkedIn (2023)_ <br/>
 ☑️ __API Testing and Validation__, _LinkedIn (2023)_ <br/>
